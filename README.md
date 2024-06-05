@@ -9,3 +9,5 @@ Hi! I'm Vigas, highly driven tech enthusiast and Bachelors of Technology graduat
 ### 🌍 The languages I use (todo)
 
 
+## WAKA GRAPH
+![WAKA GRAPH](https://wakaapi.k0n.cc/api/activity/chart/vigasdeep.svg)
