@@ -6,8 +6,8 @@ Hi! I'm Vigas, highly driven tech enthusiast and Bachelors of Technology graduat
 ### My projects (todo)
 
 
-### 🌍 The languages I use (todo)
-
+### 🌍 The languages I use
+![Languages](https://wakatime.com/share/@11b2088a-3ad8-4460-be17-0a251092a920/b78235ef-ea9d-4339-bc95-37700e03d365.svg)
 
 ## WAKA GRAPH
 ![WAKA GRAPH](https://wakaapi.k0n.cc/api/activity/chart/vigasdeep.svg)
